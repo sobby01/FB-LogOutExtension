@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "Logout from FB",
+  "description": "Auto logout from fb after 1 minute.",
+  "version": "1.0",
+  "author": "Saurabh Singh",
+
+  "browser_action": {
+    "default_title":"You will be logged out in 1 minute.",
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts":[
+    {
+      "matches" : ["https://www.facebook.com/*"],
+      "js" : ["facebook.js"]
+    }],
+
+  "permissions": [
+    "activeTab",
+    "idle",
+    "storage",
+    "tabCapture",
+    "tabs",
+    "https://www.facebook.com/*"
+  ]
+}
