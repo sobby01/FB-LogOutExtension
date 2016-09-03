@@ -1,4 +1,4 @@
-# Sample chrome extension
+# Auto logout from FB chrome extension
 
 ## Table of Contents
 
