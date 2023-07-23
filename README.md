@@ -11,20 +11,22 @@
 * Open Chrome browser and go to extensions - chrome://extensions/
 * Make sure Developer Mode is checked and then click on Load Unpacked Extension.
 
-![alt text] (https://cloud.githubusercontent.com/assets/3829498/17958053/6d5c0a48-6ab4-11e6-8829-c26ae5b7a5b6.png)
+![image](https://github.com/sobby01/FB-LogOutExtension/assets/3829498/55266b89-0fd8-4fcd-8cb9-130826eff586)
 
 * After clicking on LoadUnpackedExtension will open a browse folder dialog and select the folder where you have downloaded the code. Like below image - 
 
-![alt text] (https://cloud.githubusercontent.com/assets/3829498/18035095/0a2ed4d6-6d03-11e6-9fe1-69a41118eaea.jpg)
+![image](https://github.com/sobby01/FB-LogOutExtension/assets/3829498/0dd50acd-8d8d-4782-9455-eb4b6f60b608)
+
 
 After choosing the folder it will add the extension like below and make sure it is enabled –
 
-![alt text] (https://cloud.githubusercontent.com/assets/3829498/17958148/0c673f54-6ab5-11e6-86ea-e14f8ffae7ae.png)
+![image](https://github.com/sobby01/FB-LogOutExtension/assets/3829498/ddfe0bbf-a0de-445f-a1fb-b9cb7aad0ffb)
+
 
 ## How to use?
 
 * After installing, open browser, you will see the extension icon like below and after clicking it a popup will be shown like below -
 
-  ![alt text] (https://cloud.githubusercontent.com/assets/3829498/18035097/2269579c-6d03-11e6-9edb-11c600688ed1.jpg)
+![Uploading image.png…]()
 
 * Open Browser and login to your fb account and after 5 minutes you will be logged-out from facebook. 
